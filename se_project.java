@@ -1,4 +1,3 @@
-package sep;
 
 public class se_project {
 
